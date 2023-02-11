@@ -1,0 +1,47 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: system-ui;
+}
+/* Premiere partie  */
+body{
+  background-image: linear-gradient(60deg, #abecd6 0%, #fbed96 100%);
+}
+
+/* Deuxieme partie */
+/* Troisieme partie */
+.explain {
+  margin-left: 15%;
+  margin-right: 15%;
+  align-items: center;
+  text-align: start;
+}
+
+.explain p {
+  font-size: 20px;
+}
+
+.explain h5 {
+  font-size: 22px;
+}
+
+.discover {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+
+.ldr-btn {
+  background-color: #BCD9B9;
+  width: 15vh;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+
+
+/* Troisieme partie */
+
+
